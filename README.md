@@ -64,7 +64,7 @@ student-performance-prediction-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/architchaurasiya/student-performance-prediction-system.git
+git clone https://github.com/Ashishmaurya1303/student-performance-prediction-system.git
 cd student-performance-prediction-system
 ```
 
@@ -156,10 +156,7 @@ The system diagnoses individual score deficits and triggers specific academic gu
 
 ---
 
-## 👤 Author
 
-**Archit Chaurasiya**
-- GitHub: [@architchaurasiya](https://github.com/architchaurasiya)
 
 ---
 
